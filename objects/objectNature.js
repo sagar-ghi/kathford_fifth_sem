@@ -18,3 +18,4 @@ delete obj.releaseDate
 obj.isLatest = 1
 console.log(obj)
 
+// Math.sqrt

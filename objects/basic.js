@@ -26,3 +26,12 @@ obj[state] = false
 console.log(obj)
 
 //  key=>color
+
+
+const newObj = {
+    'nam is ?': "sagar"
+}
+
+console.log(newObj['nam is ?'])
+
+

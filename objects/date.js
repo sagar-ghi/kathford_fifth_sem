@@ -6,7 +6,7 @@ console.log(currDate,)
 
 
 // console.log(unixDateStamp)
-console.log(currDate.getDay())
+console.log(currDate.getDate())
 
 // moment //Deprecated
 // day.js

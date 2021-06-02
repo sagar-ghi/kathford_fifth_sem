@@ -2,5 +2,5 @@
 
 const obj=Object.create({})
 
-const newObject=Object.assign({},obj)
+// const newObject=Object.assign({},obj)
 
