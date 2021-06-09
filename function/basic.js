@@ -1,4 +1,4 @@
-//function declaration
+//named function declaration
 
 function add(num1, num2) {
     //operations"
@@ -9,11 +9,13 @@ function add(num1, num2) {
 const output = add(1, 2)
 // console.log(output);
 
-
+//function expresssion
+//anonymous  function 
 const subtract = function () {
     console.log("I'm subtract function")
 }
 
+// aed function expression
 const name = function mult() {
     console.log('This is mult way')
 }
@@ -23,3 +25,6 @@ console.log(name())
 
 // const divide = subtract
 // divide()
+
+
+
