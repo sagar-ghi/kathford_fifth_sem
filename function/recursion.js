@@ -1,0 +1,4 @@
+const recursionFunc = () => {
+    recursionFunc()
+}
+recursionFunc()

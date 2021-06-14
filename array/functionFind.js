@@ -18,6 +18,13 @@
 
 const arr1 = ['a', 'b', 'c', 'd']
 
-const target = arr1.find(key => key == 'c' ? key : "")
+// const target = arr1.find(key => key == 'c' ? key : "")
+//c
+//''
+
+const target = arr1.find(key => key === 'b')
+//find b
+//find undefined
+
 
 console.log("My target achieved", target)
